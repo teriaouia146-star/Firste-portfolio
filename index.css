@@ -187,11 +187,14 @@ body {
 #text{
     margin-left:170px;
 }
+#name{
+    color:#c0ffbc;
+}
 /* ----------------------- haytham skils----------------------------- */
 #skills {
     width: 100%;
     padding: 2rem 0;
-    background-color: #33b978;
+    background-color: #c0ffbc;
 }
 
 .skills-title {
@@ -230,7 +233,7 @@ body {
     position: relative;
     width: 300px;
     height: 200px;
-    background: radial-gradient(#4d4f4e, #171719);
+    background: radial-gradient(#496148ce, #141615);
     border-radius: 10px;
     display: flex;
     align-items: center;
