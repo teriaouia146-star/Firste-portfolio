@@ -19,7 +19,7 @@ function Color() {
 
 
 }
-setTimeout(ChangeColor, 2500);
+setTimeout(ChangeColor, 1500)
 // -------------------------------------------------------------------------\
 let fullname=document.getElementById("name").innerHTML;
 let incomplet="";
@@ -41,9 +41,9 @@ function Fullname(){
         }
 
 }
-setInterval(Name,240);
+setInterval(Name,200)
 }
-setTimeout(Fullname,2400);
+setTimeout(Fullname,1500)
 
 
 
